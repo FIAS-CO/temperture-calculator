@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 
 const TemperatureCalculator: React.FC = () => {
   const [targetTemp, setTargetTemp] = useState('');

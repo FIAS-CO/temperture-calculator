@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import TemperatureCalculator from './components/TemperatureCalculator';
 
 function App() {
